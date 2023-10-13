@@ -6,13 +6,13 @@
     <img src="https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=blue" alt="LinkedIn Badge"/>
   </a>
     <a href="https://github.com/raghav-karn">
-    <img src="https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=GitHub&logoColor=black" alt="GitHub Badge"/>
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub Badge"/>
   </a>
   <a href="your-youtube-URL">
     <img src="https://img.shields.io/badge/YouTube-white?style=for-the-badge&logo=youtube&logoColor=red" alt="Youtube Badge"/>
   </a>
   <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/X-white?style=for-the-badge&logo=x&logoColor=black" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white" alt="Twitter Badge"/>
   </a>
   <br>
   <img src="https://komarev.com/ghpvc/?username=raghav-karn&style=flat-square&color=blue" alt=""/><div id="badges">
