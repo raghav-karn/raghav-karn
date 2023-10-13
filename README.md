@@ -12,10 +12,10 @@
     <img src="https://img.shields.io/badge/GitHub-grey?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub Badge"/>
   </a>
   <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=green" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white" alt="Twitter Badge"/>
   </a>
   <br>
-  <img src="https://komarev.com/ghpvc/?username=raghav-karn&style=flat-circle&color=white" alt=""/><div id="badges">
+  <img src="https://komarev.com/ghpvc/?username=raghav-karn&style=flat-circle&color=green" alt=""/><div id="badges">
   </div>
   <h1>
   Eyy, Raghav Karn here!
