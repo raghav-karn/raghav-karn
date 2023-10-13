@@ -17,7 +17,7 @@
   <br>
   <img src="https://komarev.com/ghpvc/?username=raghav-karn&style=flat-circle&color=green" alt=""/><div id="badges">
   </div>
-  <h1 color="real">
+  <h1 color="teal">
   Eyy, Raghav Karn here!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
