@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=GitHub&logoColor=black" alt="GitHub Badge"/>
   </a>
   <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=red" alt="Youtube Badge"/>
+    <img src="https://img.shields.io/badge/YouTube-white?style=for-the-badge&logo=youtube&logoColor=red" alt="Youtube Badge"/>
   </a>
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/X-white?style=for-the-badge&logo=x&logoColor=black" alt="Twitter Badge"/>
