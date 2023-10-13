@@ -15,9 +15,11 @@
   <img src="https://komarev.com/ghpvc/?username=raghav-karn&style=flat-square&color=blue" alt=""/><div id="badges">
   </div>
   <h1>
-  Eyy, Raghav Karn here! 👋
+  Eyy, Raghav Karn here!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+<p>I'm Raghav Karn, a student. I don't know if I should call myself a developer, should I? 
+`$ sudo rm -rf --no preserve root` Whoa! Now I am!</p>
 </div>
 
 
