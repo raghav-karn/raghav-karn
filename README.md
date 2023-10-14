@@ -18,14 +18,15 @@
   <img src="https://komarev.com/ghpvc/?username=raghav-karn&style=flat-circle&color=green" alt=""/><div id="badges">
   </div>
   <h1 color="teal">
-  Eyy, Raghav Karn here!
+  Eyy, Raghav Karn here! 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+  </h1>
 <!---------------------------->
 <p>I'm Raghav Karn, a student. I don't know if I should call myself a developer, should I? </p>
-`$ sudo rm -rf --no preserve root` — Whoa! Now I am!
+``` $ sudo rm -rf --no preserve root ```
+  — Whoa! Now I am!
 </div>
-
+<img height="180em" src="[https://github-readme-stats.vercel.app/api?username=raghav-karn&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true](https://github-readme-stats.vercel.app/api?username=raghav-karn&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true)" />
 
 <!--
 **raghav-karn/raghav-karn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
