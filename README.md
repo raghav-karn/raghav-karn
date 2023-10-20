@@ -17,21 +17,18 @@
   <br>
   <img src="https://profile-counter.glitch.me/raghav-karn/count.svg" />
   </p>
-  <br>
  <!-- <img src="https://komarev.com/ghpvc/?username=raghav-karn&style=flat-circle&color=green" alt=""/><div id="badges">
   </div> -->
-  
-  <h1>
+</div>
+
+---
+<div align="center">
+  <h1 align="center">
   Eyy, Raghav Karn here! 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
-<!---------------------------->
-<p>I'm Raghav Karn, a student. I don't know if I should call myself a developer, should I? </p>
-``` $ sudo rm -rf --no preserve root ```
-  — Whoa! Now I am!
-    <br>
 </div>
-
+Hey, glad to see you here. I'm currently a dormant guy, not really into programming rn
 
 [![GitHub Game of Life](https://github4life.herokuapp.com/raghav-karn.gif?z=6)](https://github4life.herokuapp.com/raghav-karn)
 
