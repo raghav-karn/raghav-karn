@@ -32,7 +32,11 @@
   
   [![GitHub Game of Life](https://github4life.herokuapp.com/raghav-karn.gif?z=6)](https://github4life.herokuapp.com/raghav-karn)
 
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raghav-karn&show_icons=true&locale=en" alt="raghav-karn" /></p>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raghav-karn&show_icons=true&theme=dark&title_color=5e79c4&text_color=2b3d70&bg_color=cdbfff&locale=en&layout=compact" alt="raghav-karn" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raghav-karn&show_icons=true&theme=dark&title_color=5e79c4&text_color=2b3d70&bg_color=cdbfff&locale=en" alt="raghav-karn" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raghav-karn&theme=dark" alt="raghav-karn" /></p>
   
    </div> 
 </div>
@@ -67,6 +71,7 @@
 
 
 ---
+
 <!--
 **raghav-karn/raghav-karn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
