@@ -32,7 +32,7 @@
   
   [![GitHub Game of Life](https://github4life.herokuapp.com/raghav-karn.gif?z=6)](https://github4life.herokuapp.com/raghav-karn)
 
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raghav-karn&show_icons=true&theme=dark&title_color=5e79c4&text_color=2b3d70&bg_color=cdbfff&locale=en&layout=compact" alt="raghav-karn" /></p>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=raghav-karn&show_icons=true&theme=dark&title_color=5e79c4&text_color=2b3d70&bg_color=cdbfff&locale=en&layout=compact" alt="raghav-karn" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raghav-karn&show_icons=true&theme=dark&title_color=5e79c4&text_color=2b3d70&bg_color=cdbfff&locale=en" alt="raghav-karn" /></p>
 
