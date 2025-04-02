@@ -3,7 +3,7 @@
   Yoi! I am Raghav Karn.
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
-  <h3 align="center">I work once a year :3</h3>
+  <h3 align="center">Going on a hiatus :(</h3>
 </div>
 
 ---
@@ -43,21 +43,21 @@
 
 ---
 
-- 🔭 I’m currently working on **no project**
+- 🔭 I’m currently working on **Aerosol**
 
-- 🌱 I’m currently learning **frontend websites (HTML, CSS, a bit of JS), Python**
+- 🌱 I’m currently learning **frontend websites (HTML, CSS, a bit of vanilla and Node JS), Python, BASH/ZSH**
 
-- 👨🏽‍💻 I’ve recently worked on [Mochii](https://github.com/raghav-karn/mochii)
+- 👨🏽‍💻 I’ve recently worked on [Aerosol website](https://github.com/raghav-karn/aerosol)
 
-- 🤝🏼 I’m looking for help with [my portfolio page](https://github.com/raghav-karn/raghav-karn.github.io)
+- 🤝🏼 I’m looking for help with [Shuffile-links](https://github.com/raghav-karn/shuffile-links)
 
-- 📃 All of my projects are available at [raghav-karn.github.io](raghav-karn.github.io)
+- 📃 All of my projects are available at [raghavkarn.com](https://raghavkarn.com)
 
-- 💬 Ask me about **Python (I'm a rookie though)**
+- 💬 Ask me about **Frontend development & design**
 
-- 📫 How to reach me **raghav4811.risp@indirapuramschool.onmicrosoft.com**
+- 📫 How to reach me [contact@raghavkarn.com](mailto:contact@raghavkarn.com)
 
-- ⚡ Fun fact **I'm into photography.**
+- ⚡ Fun fact **I'm into photography**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
