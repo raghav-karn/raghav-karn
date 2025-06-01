@@ -47,7 +47,7 @@
 
 - 🌱 I’m know a little **frontend dev (HTML, CSS, a bit of vanilla and Node JS), Python, BASH/ZSH**
 
-- 👨🏽‍💻 I’ve recently worked on [**Grab**](https://github.com/raghav-karn/aerosol)
+- 👨🏽‍💻 I’ve recently worked on [**Grab**](https://grab.raghavkarn.com)
 
 - 🤝🏼 I’m looking for help with [**Shuffile-links**](https://github.com/raghav-karn/shuffile-links) **for deployment on [Nest](https://hackclub.app)**
 
