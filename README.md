@@ -43,21 +43,21 @@
 
 ---
 
-- 🔭 I’m currently working on **Aerosol**
+- 🔭 I’m currently working on [**Jeopardy**](https://github.com/raghav-karn/jeopardy)
 
-- 🌱 I’m currently learning **frontend websites (HTML, CSS, a bit of vanilla and Node JS), Python, BASH/ZSH**
+- 🌱 I’m know a little **frontend dev (HTML, CSS, a bit of vanilla and Node JS), Python, BASH/ZSH**
 
-- 👨🏽‍💻 I’ve recently worked on [Aerosol website](https://github.com/raghav-karn/aerosol)
+- 👨🏽‍💻 I’ve recently worked on [**Grab**](https://github.com/raghav-karn/aerosol)
 
-- 🤝🏼 I’m looking for help with [Shuffile-links](https://github.com/raghav-karn/shuffile-links)
+- 🤝🏼 I’m looking for help with [**Shuffile-links**](https://github.com/raghav-karn/shuffile-links) **for deployment on [Nest](https://hackclub.app)**
 
-- 📃 All of my projects are available at [raghavkarn.com](https://raghavkarn.com)
+- 📃 All of my projects are available at [**projects.raghavkarn.com / GitHub**](https://github.com/raghav-karn)
 
 - 💬 Ask me about **Frontend development & design**
 
-- 📫 How to reach me [contact@raghavkarn.com](mailto:contact@raghavkarn.com)
+- 📫 Contact me at [**contact@raghavkarn.com**](mailto:contact@raghavkarn.com)
 
-- ⚡ Fun fact **I'm into photography**
+- ⚡ Fun fact **I'm also into photography**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
